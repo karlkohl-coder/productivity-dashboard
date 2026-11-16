@@ -1,0 +1,10 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Fertige App und Versandpaket – werden von build.sh erzeugt
+build/
+
+# macOS
+.DS_Store
